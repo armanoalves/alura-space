@@ -17,3 +17,13 @@
 - Aumentamos a segurança do projeto protegendo a SECRET_KEY e instalando o pacote python-dotenv e criando o arquivo .env;
 
 - Subimos o projeto para um repositório remoto no github e tomamos o cuidado de criar o arquivo .gitignore para deixarmos vulneráveis dados sensíveis do nosso projeto.
+
+### Aula 03
+
+- Entendemos a diferença de projeto e app no universo de desenvolvimento com Django e criamos a primeira app com o comando `python manage.py startapp galeria`;
+
+- Criamos a primeira página personalizada na web configurando rotas dentro dos arquivos `views.py` e `urls.py`;
+
+- Aprendemos a boa prática de criação de um arquivo `urls.py` para cada app;
+
+- Isolamos o template da app galeria, criando uma nova pasta chamada templates e reconfigurando o `settings.py`.
