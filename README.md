@@ -27,3 +27,11 @@
 - Aprendemos a boa prática de criação de um arquivo `urls.py` para cada app;
 
 - Isolamos o template da app galeria, criando uma nova pasta chamada templates e reconfigurando o `settings.py`.
+
+### Aula 04 
+
+- Aprendemos a como organizar melhor os arquivos estáticos através da criação pastas indicadoras de cada app dentro da pasta `templates`;
+
+- Usamos código Python embedado dentro de arquivos HTML graças ao Jinja2;
+
+- Implementamos um novo template HTML personalizado junto de diversos arquivos estáticos e melhoramos a aparência do site.
