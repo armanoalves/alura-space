@@ -1,5 +1,7 @@
 # alura-space
 
+## Curso 1
+
 ### Aula 01 
 
 - Conhecemos o Django 4, sua história e principais aspectos do framework;
@@ -35,3 +37,13 @@
 - Usamos código Python embedado dentro de arquivos HTML graças ao Jinja2;
 
 - Implementamos um novo template HTML personalizado junto de diversos arquivos estáticos e melhoramos a aparência do site.
+
+
+### Aula 05 
+
+- Aprendemos sobre a prática DRY (Don’t Repeat Yourself - Não se repita) e a colocamos em ação criando uma arquivo chamado `base.html` que irá conter código repetido em diversos templates para evitar essa repetição;
+
+- Utilizamos o artifício das **Partials** para seguir com a prática DRY, evitando mais repetição de código e tornando mais eficiente a escalabilidade do site.
+
+## Curso 2
+
